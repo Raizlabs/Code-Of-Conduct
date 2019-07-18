@@ -1,3 +1,3 @@
 # Code-Of-Conduct
-## Contribution To Reopsitories
+## Contribution To Repositories
 Please read our contribution [Code of Conduct](./CONTRIBUTING.md).
